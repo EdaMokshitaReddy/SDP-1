@@ -1,4 +1,8 @@
 # SDP-1
+Firstly we conducted a online survey on Rental System using google forms. 
+From that problems we identified is many people are suffering while transporting from that we concluded that we have to create Bike Rental System.Everyone can easily pay the rents and can travel every where.
+We created Customer Journey map, Personas, Insights, Modules, Prototype.
+Now are developing a webpage on Bike Rental System using MERN, with the knowledge of design thinking and Project Development
 
 # Login.js- in react
 import React from 'react'

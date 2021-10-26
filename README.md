@@ -141,3 +141,146 @@ export default function SignUp()
          </form>
     </div>
 }
+
+# CSS Code
+.main{
+    text-align: center;
+    justify-content: left;
+    display: flex;
+    padding: 90px 0 90px 0;
+    border-color: rgb(174, 139, 207);
+}
+
+.sub-main{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    width: 35%;
+    
+    padding-top: 20px;
+    border-radius: 70px;
+    background-color: rgb(99, 224, 203);
+}
+.img{
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+}
+.image{
+    background-color:rgb(99, 224, 203) ;
+    border-radius: 150px;
+    align-items:center;
+    display: flex;
+    height: 115px;
+    width:115px;
+}
+.profile{
+    height:120px;
+    width:240px;
+    border-radius: 130px;
+}
+input{
+    width: 300px;
+    height: 50px;
+    border-radius: 60px;
+    border: none;
+    outline: none;
+    background-color: rgb(255, 255, 255);
+
+}
+.name{
+    padding-left: 80px;
+    font-size: 20px;
+}
+.second-input{
+    padding-top: 20px;
+}
+
+button{
+    width :380px;
+    height: 50px;
+    border-radius: 60px;
+    background-color: #b103fc;
+    color:white;
+    font-size: 25px;
+    border:none;
+}
+.login-button{
+    padding-top: 25px;
+}
+.link{
+    font-size: 25px;
+    font-weight: 400;
+}
+a{
+    background-color: rgb(99, 224, 203);
+    color:rgb(0, 0, 0);
+    
+}
+.image4{
+    background-image: url('./image4.png');
+    background-size: cover;
+    height: 100vh;
+    color: #f5f5f5;
+}
+.forgot
+{
+    display: block;
+    font-size: 16px;
+    width: 450px;
+    height: 170px;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    background-color: rgb(111, 166, 180);
+    color: black;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.sign
+{
+    display: block;
+    font-size: 16px;
+    width: 500px;
+    height: 600px;
+    text-align: center;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    background-color: rgb(168, 180, 111);
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.submit{
+    width :300px;
+    height: 50px;
+    border-radius: 60px;
+    background-color: #226c8b;
+    color:white;
+    font-size: 25px;
+    border:none;
+}
+.clear{
+    width :300px;
+    height: 50px;
+    border-radius: 60px;
+    background-color: #2f3f46;
+    color:white;
+    font-size: 25px;
+    border:none;
+}
+
+.radio-button
+{
+    width: 15px;
+    height: 20px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    background-color: rgb(255, 255, 255);
+}
+
+
